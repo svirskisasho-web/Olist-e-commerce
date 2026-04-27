@@ -75,13 +75,13 @@ olist_products_dataset
 ## Key Findings
 
 ### Revenue & Growth
-- Total GMV of **R$13.6M** across 99,441 delivered orders over 2 years
+- Total GMV of **R$13.2M** across 99,441 delivered orders over 2 years
 - Revenue grew **+2,394%** from Sep 2016 to Aug 2018
 - Peak month: **November 2017 at R$1.01M** — likely driven by Black Friday
-- Average order value: **R$137.75** (items only) / **R$160.40** including freight
+- Average order value: **R$137.05** (items only) / **R$159.83** including freight
 
 ### Freight — The Margin Problem
-- Freight costs total **R$2.25M — 16.6% of GMV**, well above the ~10% industry benchmark
+- Freight costs total **R$2.19M — 16.6% of GMV**, well above the ~10% industry benchmark
 - Five categories have freight ratios exceeding 30% of their own revenue, making them likely unprofitable:
 
 | Category | Freight % of Revenue |
@@ -105,7 +105,7 @@ olist_products_dataset
 - The business is effectively an acquisition machine with no retention engine
 
 ### Seller Performance
-- Top seller generated **R$189K** in revenue but holds a **2.4 average review score** — the highest-earning, worst-rated seller in the dataset
+- Top seller generated **R$241K** in revenue but holds a **3.3 average review score** — the highest-earning, worst-rated seller in the dataset
 - Sellers in the "risk" quadrant (high revenue, low rating) represent a hidden churn engine
 - **73.9% of orders paid by credit card**, averaging **3.5 installments** — creating deferred cash flow across the entire seller base
 
@@ -151,7 +151,7 @@ RR, AM, AP and PA average 27–29 days to deliver with freight ratios above 40%.
 A 96.9% single-purchase rate means acquisition spend is not compounding. Even converting 5% of one-time buyers to repeat customers would add significant GMV without incremental acquisition cost.
 
 **04 — Put high-revenue, low-rating sellers on notice**
-Sellers generating over R$15K with average ratings below 3.0 are a hidden churn engine. Implement seller SLAs: maintain a 3.5+ rating or face listing restrictions.
+Sellers generating over R$15K with average ratings below 3.5 are a hidden churn engine. Implement seller SLAs: maintain a 3.5+ rating or face listing restrictions.
 
 ---
 
